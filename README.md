@@ -1,3 +1,1 @@
-See documentation in public README.md for P3 Markov Part 1: 
-
-https://coursework.cs.duke.edu/201-public-documentation/P2-Markov-Part-1/-/blob/main/README.md 
+This simple project using various Markov processes to create simple word grams. Fall 2021.
